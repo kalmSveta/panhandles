@@ -1,5 +1,5 @@
-hub panhandles_git
-shortLabel panhandles_git
-longLabel panhandles_git
+hub panhandles
+shortLabel panhandles
+longLabel panhandles
 genomesFile genomes.txt
 email svetlana.kalmykova@skoltech.ru
