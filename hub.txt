@@ -1,0 +1,5 @@
+hub panhandles_10_12_18
+shortLabel panhandles
+longLabel panhandles
+genomesFile https://raw.githubusercontent.com/kalmSveta/panhandles/master/genomes.txt
+email svetlana.kalmykova@skoltech.ru
