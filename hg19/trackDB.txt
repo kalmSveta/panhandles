@@ -1,5 +1,5 @@
 track all_panhandlesR
-type bigBed
+type bigBed 12 +
 exonArrows on
 exonNumbers on
 bigDataUrl alignments_whole_human_genome.bb
