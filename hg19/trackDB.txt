@@ -1,5 +1,6 @@
 track all_panhandles
-bigDataUrl https://raw.githubusercontent.com/kalmSveta/panhandles/master/hg19/alignments_whole_human_genome.bb
+type bigBed
+bigDataUrl alignments_whole_human_genome.bb
 shortLabel all_panhandles
 longLabel all panhandles from human genome  
-type bigBed
+
