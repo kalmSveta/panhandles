@@ -1,5 +1,5 @@
-hub panhandles_10_12_18
-shortLabel panhandles
-longLabel panhandles
+hub panhandles_oop
+shortLabel panhandles_oop
+longLabel panhandles_oop
 genomesFile genomes.txt
 email svetlana.kalmykova@skoltech.ru
