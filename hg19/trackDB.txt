@@ -1,6 +1,7 @@
 track all_panhandlesR
 type bigBed
 exonArrows on
+exonNumbers on
 bigDataUrl alignments_whole_human_genome.bb
 shortLabel all_panhandlesR
 longLabel all panhandles from human genome  
