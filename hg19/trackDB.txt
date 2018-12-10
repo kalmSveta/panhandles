@@ -1,5 +1,4 @@
 track all_panhandles
-superTrack on
 type bigBed 6 .
 visibility dense
 spectrum on
