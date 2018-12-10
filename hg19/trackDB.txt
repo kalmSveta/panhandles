@@ -1,0 +1,5 @@
+track all_panhandles
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/kalmsveta/analyses/trackhub_10_12_18/hg19/alignments_whole_human_genome.bb
+shortLabel all_panhandles
+longLabel all panhandles from human genome  
+type bigBed
