@@ -1,6 +1,7 @@
 track all_panhandles
-type bigBed
+type bigBed 6 .
+visibility dense
+spectrum on
 bigDataUrl alignments_whole_human_genome.bb
 shortLabel all_panhandles
 longLabel all panhandles from human genome  
-
