@@ -41,3 +41,23 @@ exonNumbers on
 bigDataUrl panhandles_RBFOX2_sorted.bb
 shortLabel panhandles_RBFOX2
 longLabel panhandles RBFOX2
+
+
+track KD_RBFOX2
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl KD_RBFOX2.bb
+shortLabel KD_RBFOX2
+longLabel KD RBFOX2
+
+
+track eCLIP_RBFOX2
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl eCLIP_RBFOX2.bb
+shortLabel eCLIP_RBFOX2
+longLabel eCLIP RBFOX2
+
+
