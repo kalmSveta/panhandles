@@ -44,18 +44,14 @@ longLabel panhandles RBFOX2
 
 
 track KD_RBFOX2
-type bigBed 4 .
-exonArrows on
-exonNumbers on
+type bigBed
 bigDataUrl KD_RBFOX2.bb
 shortLabel KD_RBFOX2
 longLabel KD RBFOX2
 
 
 track eCLIP_RBFOX2
-type bigBed 6 .
-exonArrows on
-exonNumbers on
+type bigBed
 bigDataUrl eCLIP_RBFOX2.bb
 shortLabel eCLIP_RBFOX2
 longLabel eCLIP RBFOX2
