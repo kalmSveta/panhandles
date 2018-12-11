@@ -23,3 +23,12 @@ exonNumbers on
 bigDataUrl alignments_disruptive_mutations_kidney_sorted.bb
 shortLabel panhandles_with_disr_mut_kidney
 longLabel panhandles with at least one mutation in hand which disrupts their structure (kidney) 
+
+
+track panhandles_MXE
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_MXE.bb
+shortLabel panhandles_MXE
+longLabel panhandles MXE
