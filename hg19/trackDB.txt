@@ -52,7 +52,7 @@ longLabel KD RBFOX2
 
 track eCLIP_RBFOX2
 type bigBed
-bigDataUrl eCLIP_RBFOX2.bb
+bigDataUrl  	eCLIP_RBFOX2.bb
 shortLabel eCLIP_RBFOX2
 longLabel eCLIP RBFOX2
 
