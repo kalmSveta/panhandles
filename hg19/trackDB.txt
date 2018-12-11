@@ -32,3 +32,12 @@ exonNumbers on
 bigDataUrl panhandles_MXE.bb
 shortLabel panhandles_MXE
 longLabel panhandles MXE
+
+
+track panhandles_RBFOX2
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_RBFOX2_sorted.bb
+shortLabel panhandles_RBFOX2
+longLabel panhandles RBFOX2
