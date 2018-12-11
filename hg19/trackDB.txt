@@ -5,3 +5,21 @@ exonNumbers on
 bigDataUrl alignments_whole_human_genome.bb
 shortLabel all_panhandles
 longLabel all panhandles from human genome  
+
+
+track panhandles_with_disr_mut_liver
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl alignments_disruptive_mutations_liver_sorted.bb
+shortLabel panhandles_with_disr_mut_liver
+longLabel panhandles with at least one mutation in hand which disrupts their structure (liver)  
+
+
+track panhandles_with_disr_mut_kidney
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl alignments_disruptive_mutations_kidney_sorted.bb
+shortLabel panhandles_with_disr_mut_kidney
+longLabel panhandles with at least one mutation in hand which disrupts their structure (kidney) 
