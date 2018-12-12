@@ -57,3 +57,21 @@ shortLabel eCLIP_RBFOX2
 longLabel eCLIP RBFOX2
 
 
+track panhandles_kidney_DE_exons_sum
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_kidney_DE_exons_sum_sorted.bb
+shortLabel panhandles_kidney_DE_exons_sum
+longLabel panhandles_kidney_DE_exons_sum
+
+
+track panhandles_kidney_DE_exons_median
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_kidney_DE_exons_median_sorted.bb
+shortLabel panhandles_kidney_DE_exons_median
+longLabel panhandles_kidney_DE_exons_median
+
+
