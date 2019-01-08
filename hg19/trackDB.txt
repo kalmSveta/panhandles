@@ -7,6 +7,15 @@ shortLabel all_panhandles
 longLabel all panhandles from human genome  
 
 
+track panhandles_old_version
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl pairs_names_sorted.bb
+shortLabel panhandles_old_version
+longLabel panhandles old version   
+
+
 track panhandles_with_disr_mut_liver
 type bigBed 12 +
 exonArrows on
