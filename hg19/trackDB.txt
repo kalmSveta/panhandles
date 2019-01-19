@@ -52,19 +52,13 @@ shortLabel panhandles_RBFOX2
 longLabel panhandles RBFOX2
 
 
-track KD_RBFOX2
-type bigBed
-bigDataUrl KD_track_sorted.bb
-shortLabel KD_RBFOX2
-longLabel KD RBFOX2
-
-
-
 track shRNA_KD_RBFOX2
-type bigBed 6 +
+type bigBed 9 +
+itemRgb on
 bigDataUrl KD_track_colored_sorted.bb
-shortLabel KD_RBFOX2
-longLabel KD RBFOX2
+shortLabel shRNA_KD_RBFOX2
+longLabel shRNA KD RBFOX2
+
 
 track eCLIP_RBFOX2
 type bigBed
