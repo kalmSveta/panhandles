@@ -59,6 +59,13 @@ shortLabel KD_RBFOX2
 longLabel KD RBFOX2
 
 
+
+track shRNA_KD_RBFOX2
+type bigBed 6 +
+bigDataUrl KD_track_colored_sorted.bb
+shortLabel KD_RBFOX2
+longLabel KD RBFOX2
+
 track eCLIP_RBFOX2
 type bigBed
 bigDataUrl eCLIP_track_sorted.bb
