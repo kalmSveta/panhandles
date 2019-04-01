@@ -102,7 +102,6 @@ shortLabel panhandles_liver_DE_exons_median
 longLabel panhandles_liver_DE_exons_median
 
 
-
 track kidney_site_onco
 type bigBed 9 +
 itemRgb on
@@ -110,4 +109,13 @@ labelOnFeature on
 bigDataUrl kidney_site_onco_track.bb
 shortLabel kidney_site_onco
 longLabel kidney_site_onco
+
+
+track liver_site_onco
+type bigBed 9 +
+itemRgb on
+labelOnFeature on
+bigDataUrl liver_site_onco_track.bb
+shortLabel liver_site_onco
+longLabel liver_site_onco
 
