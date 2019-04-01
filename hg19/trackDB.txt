@@ -117,3 +117,17 @@ bigDataUrl liver_site_onco_track.bb
 shortLabel liver_site_onco
 longLabel liver_site_onco
 
+track kidney_intron_onco
+type bigBed 9 +
+itemRgb on
+bigDataUrl kidney_intron_onco_track.bb
+shortLabel kidney_intron_onco
+longLabel kidney_intron_onco
+
+track liver_intron_onco
+type bigBed 9 +
+itemRgb on
+bigDataUrl liver_intron_onco_track.bb
+shortLabel liver_intron_onco
+longLabel liver_intron_onco
+
