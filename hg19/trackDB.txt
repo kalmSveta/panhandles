@@ -104,7 +104,7 @@ longLabel panhandles_liver_DE_exons_median
 
 
 track kidney_site_onco
-type bigBed 9
+type bigBed 12 +
 exonArrows on
 exonNumbers on
 itemRgb on
