@@ -130,11 +130,3 @@ itemRgb on
 bigDataUrl liver_intron_onco_track.bb
 shortLabel liver_intron_onco
 longLabel liver_intron_onco
-
-
-track introns
-type bigBed 3
-bigDataUrl file.bb
-shortLabel introns
-longLabel introns
-
